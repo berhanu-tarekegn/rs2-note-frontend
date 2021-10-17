@@ -1,0 +1,22 @@
+{
+  "name": "bkeep",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.23.0",
+    "vue": "^3.2.16",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.17",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^9",
+    "postcss": "^7",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "vite": "^2.6.4"
+  }
+}
